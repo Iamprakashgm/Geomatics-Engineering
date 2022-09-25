@@ -1,0 +1,218 @@
+03:23:59	Madan Kumar Khadka:	yes Prof
+03:24:08	Mubarak Maseeh Michael:	yes professor
+03:24:37	Nasir Farid:	According to the program Lecture 4: Intelligent Remote Sensing
+Program schedule changed?
+03:25:00	Wei Min-2:	Yes
+03:25:04	8408629117 :	screen not shared
+03:25:15	Wei Min-2:	It will be tomorrow
+03:25:49	TA-Wenjing Zhang:	Yes, the lecture 4 and lecture 6 have been exchanged.
+03:26:22	Alexander Holsteinson:	WeChat still doesn't allow joining
+03:26:22	TA-Wenjing Zhang:	The title is :Night-time Light Remote Sensing
+03:28:13	Tirtha Raj Basnet:	https://chat.whatsapp.com/F3Dwb6I3MORK0A6RnatkZx
+03:28:13	Madan Kumar Khadka:	Yunnan is comparatively dark
+03:28:33	Kanwal Javid:	temporal information of this image is not mentioned
+03:29:37	syeda zara:	the lecture 6 is given on place of lecture 4. that's all. fellow students. lets focus on lecture.
+03:30:23	Rizwan Khalid:	why Japan is the brightest in the satellite imagery?
+03:31:36	Usman Mehmood:	from which satellite we get light data of 1993?
+03:32:06	Ayesha Riaz:	which satellite is best to get light data for south Asian region?
+03:33:16	Kavach Mishra:	What is the spatial resolution of nightlight time data? What is its revisit time?
+03:33:22	Ceren Özcan Tatar:	usher hardcore girdi
+03:33:54	Kanwal Javid:	is night time data tell use actual population density of any region?
+03:34:22	Johanes Muhimbula:	What are the software that are most popular in the acquisition of the NL images
+03:34:24	ife oyekanmi:	which satellite is best to get light data for  African region?
+03:35:10	Rizwan Khalid:	Through which satellite these images are obtained?
+03:35:52	Kanwal Javid:	Night time data give data in which unit?
+03:36:15	Kanwal Javid:	it's pixel base?
+03:36:48	hedayatullah:	we can Dedicate landcover area  in the night time image
+03:36:54	Diwyacitta Dirda Gupita:	Satellite imageries are pixel-based
+03:37:10	Yetunde Rotimi:	DMSP Satellite
+03:37:15	Kanwal Javid:	if it's pixel base one pixel is equal to?
+03:37:20	Kavach Mishra:	how to download Luojia-1 data? is it freely available for academic research?
+03:37:52	ife oyekanmi:	Are imageries free?
+03:38:04	Sabreena Ashraf:	What is the main philosophy behind the NLRS? How do we get this data? What all information could be acquired from it?
+03:38:53	Kanwal Javid:	1 meter pixel contain how much lights or it's area based?
+03:39:01	Diwyacitta Dirda Gupita:	depends on the provider, I guess. If it's only for visual presentation purposes, then maybe they're in DN units. If you want to do analyses, there must be some ways to transform those DNs to indices with certain units
+03:39:10	waqar ahmed:	What analysis do we get from this night time remote sensing ?
+03:40:00	Fredrik Angelo Francisco:	Are there any immediate obstacles or problems that can be encountered (and expected) when trying to handle data from NLRS?
+03:40:27	Seid Ali Shifaw:	what is the role of this NLRS for environmental scientists ?
+03:42:16	Aprilia Nidia Rinasti:	Hi, TA. Please erase the annotations from the shared screen.
+03:42:56	Schneider Djossou:	How can we apply NLRS in road and bridge engineering?
+03:43:04	Haldelio Hanif:	yes.. we don't need the annotation/ sub titles of this webinar. it so annoying
+03:47:33	Mohamed Ashraf Maklad:	how could we recognize other types of lights, is there any criteria ?
+03:52:34	Kanwal Javid:	Global GDP grid data source?
+03:53:25	Hafsa Aeman:	Q1). High-Intensity information acquisition from NLRS leads to what information (like Number of lights or could be a single source light flux; like the measure of brightness) and Can it be interpreted related to urban density if yes then How.. Because a single object may contain a multiple light time information. Thank you
+03:55:15	202208:	in stockholm, sweden shops get close early wheas in Karachi Pakistan, these remain open till late night.
+03:55:35	Kanwal Javid:	more pixelate and destroy actual urban expansion view so for that coarse resolution is best
+03:57:40	202208:	weather diff. between Asia and Europe can allo affect night time activity.
+03:58:09	Kanwal Javid:	so Night time data is best for analyze the urban population not for rural population so what kind of satellite use for rural population?
+04:00:37	Kanwal Javid:	is NL data informative for computing LST or atmospheric temperature as well?
+04:10:36	SYED RAFI AHMED:	how can we get NL data
+04:11:06	Waqar Fatima:	Question : Can we detect flood using Night light data?
+04:11:41	SYED RAFI AHMED:	depending upon the water quality
+04:12:00	Hassan HANNI:	what as the apport of land use and land cover for agriculture urban and peri urban for food security?
+04:12:38	SYED RAFI AHMED:	fresh and pure water will absorb the whole light and water with impurities can help to detect the flood
+04:13:09	SYED RAFI AHMED:	but it will not give exact information of flood
+04:13:13	Abba Aliyu Kasim:	What are free sources of Night time light images?
+04:13:17	SYED RAFI AHMED:	microwave data
+04:13:26	SYED RAFI AHMED:	for flood
+04:13:51	Hassan HANNI:	isn'ight light can do analysis for ka d useand land cover areas?
+04:14:10	waqar ahmed:	How can the intensities be distinguished in the satellite imageries as In the night time we get the reflectance of the energy emitted by the earth as well as the intensities from the light pollution ?
+04:14:45	Kanwal Javid:	night time data base on light street light etc it's gave reflectance related to light features....
+04:15:12	Johanes Muhimbula:	How are we going to make the analysis of culture and how do we measure the culture of a place using the Night time light?
+04:15:57	waqar ahmed:	this question is being answered by the professor and he is right now elaborating it as well
+04:16:23	Johanes Muhimbula:	What are the models popular for using the night light images? and apart from Sentinel images what are other free images
+04:17:21	waqar ahmed:	Landsat, aqua modis and terra modis,
+04:18:00	Abdelaziz Merghadi:	Is it possible to get the link for the recorded session later?
+04:18:05	Rizwan Khalid:	Landsat does not provide night light images
+04:21:03	syeda zara:	what is time interval between taking pictures in these sattelites?
+04:23:34	waqar ahmed:	time interval is also known as Temporal resolution, so it is different for different satellites depending upon the ordbit in which they are orbiting the earthLandsat has a temporal resolution of 16 days
+04:24:38	Mohamed Ashraf Maklad:	please we need the ppt to benefit from these usefull informations
+04:24:40	Abdelhamid Elnaggar:	why China doesn't provide free access to its remote sensing data like the USA?
+04:25:12	Fahim Raza -Pakistan:	okay sir
+04:25:17	El-Kalei Hamza:	thank you sir
+04:25:19	Fahim Raza -Pakistan:	thanks
+04:25:23	Fredrik Angelo Francisco:	Thank you sir!
+04:25:25	Tirtha Raj Basnet:	thankyou professer
+04:25:28	Abdulmuhaimin Bakale:	Thank you Professor
+04:25:29	Kanwal Javid:	thank you Prof.
+04:25:33	Wang Dongliang:	Кронштадт
+04:25:34	Amna Ali:	Thank you
+04:25:36	UqBa RamZan:	Thankyou professor
+04:25:38	Tan Pei Shi:	Thank you Professor
+04:25:38	彭文志:	thank you sir
+04:25:42	Diwyacitta Dirda Gupita:	Thank you Prof. Li!
+04:25:43	zhehan liu（刘哲涵）:	thank you Prof.
+04:25:44	Riham Khozam:	Thank you
+04:25:46	sana nazli:	Thank you Professor
+04:25:48	Muhammad Afaq:	thank you
+04:25:48	Waqar Fatima:	Thankyou Prof Li, very interesting lecture.
+04:25:55	Abdelhamid Elnaggar:	thank you for you informative presentation
+04:25:56	Wang Dongliang:	Thank you professor
+04:26:03	Hafsa Aeman:	thank you prof.
+04:26:03	Muhammad Hussain Mengal:	thank you
+04:26:10	Amara Perera:	thank you prof.
+04:26:17	Abdelaziz Merghadi:	thank you professor ☺️
+04:26:20	Degu Tadesse Sendekie:	can we get the recorded version of this presentation?
+04:26:26	Yetunde Rotimi:	Thank you Professor
+04:26:32	Mohamed Ashraf Maklad:	A great lecture,, thank you so much professor
+04:26:35	Kundan Kumar:	Thank you prof.
+04:26:41	Abdelaziz Merghadi:	can we get the recorded version of this presentation?
+04:26:51	Thakur Lamichhane:	非常翔实的介绍。谢谢教授- धन्यवाद!
+04:26:52	Madan Kumar Khadka:	Thank you Prof Li
+04:26:53	Kiran bhusal:	Thank you for insightful presentation
+04:26:54	Nasir Farid:	Thank you Professor.
+04:27:00	Damilola Fadipe:	Thank you professor
+04:27:09	Carryl Jade Angelica Brocales:	Thank you Professor
+04:27:17	Tamer Saleh 塔莫尔:	Thank you Professor
+04:27:27	Saliha Khalid:	Thanks for the lecture professor..  It was very informative
+04:27:53	SYED RAFI AHMED:	thank you Professor
+04:28:11	Rana Waqar Aslam:	Thanks for the lecture professor..  It was very informative
+04:28:18	Shimaa Holail:	thank you professor
+04:28:43	Rupendra Maharjan:	Thank you for an informative lecture professor
+04:28:51	Adamu Bala:	Thank you Prof.
+04:29:23	Dhananjana:	thank you prof.
+04:29:40	Aale Muhammad:	Thank you Professor
+04:29:49	Seid Ali Shifaw:	I have learnt a lot  professor
+04:30:11	Rizwan Mansha:	Thank You Professor
+04:32:14	syeda zara:	thankyou professor
+04:33:35	Otman Perez:	plase, can repeat the cuestión/asignation of this lecture?
+04:33:37	SHOUKAT ALI SHAH:	thank you prof for the informative lecture
+04:33:39	Tamas:	Very informative lecture, thank you.
+04:33:44	Alexander Holsteinson:	best software
+04:33:48	Aprilia Nidia Rinasti:	What kind of urban information can be acquired from the night-time light remote sensing images?
+04:33:51	202208:	a very successful lecture by prof.
+04:34:09	Aprilia Nidia Rinasti:	(the question from the prof)
+04:34:18	Mahtab ahmed Panhwar:	mahtabpanhwar@gmail.com
+04:34:29	Murad Khan:	engrmurad2019@gmail.com
+04:34:31	SYED RAFI AHMED:	alsyedrafiahmed@gmail.com
+04:34:35	Fahim Raza -Pakistan:	Fahimrazashamsi72@gmail.com
+04:34:39	Adamu Bala:	adamubala09@gmail.com
+04:34:43	Shwana Braim Hassan:	shwana.manguri@uor.edu.krd
+04:34:45	Hassan HANNI:	post your e mail professor
+04:34:47	Murad Khan:	kindly share the PPT and pdf of this lecture
+04:34:50	Nadeem Ullah:	Thank you Professor
+04:34:51	Bareerah Khalid:	bareerahkhalid@gmail.com
+04:34:53	Galaxy A02:	sharjeelahmedsiddiqui2000@gmail.com
+04:34:55	Tao Liu（刘涛）:	dlmult@hotmail.com
+04:34:57	Muhammad Adnan:	madnankhan336@gmail.com
+04:34:59	dell:	saima09.uettaxlia@gmail.com
+04:35:04	Abdulmuhaimin Bakale:	very interested lecture Professor
+04:35:06	Kundan Kumar:	kundankr18218@gmail.com
+04:35:08	Ishola Oluwafunmilayo Grace:	fumexedu@gmail.com
+04:35:08	syeda zara:	zarabatool120@gmail.com
+04:35:11	विशाल ज्ञवाली:	pas075bge012@wrc.edu.np
+04:35:16	Hassan HANNI:	thank you sir
+04:35:19	Abdulmuhaimin Bakale:	abdulmuhaiminbakale@yahoo.com
+04:35:22	TA-Wenjing Zhang:	lixi@whu.edu.cn
+04:35:29	El-Kalei Hamza:	thank you Sir
+04:35:30	Che Jing:	cjing7804@gmail.com
+04:35:34	Hassan HANNI:	hassanhanni96@gmail.com
+04:35:36	Schneider Djossou:	can we use NLRS to identify electrify and non electrify areas
+04:35:38	Shwana Braim Hassan:	lixi@whu.ed.cn
+04:35:41	Che Jing:	thank you sir
+04:35:42	Mefe Moses:	mefemoses@gmail.com
+04:35:45	El-Kalei Hamza:	elkaleihamza@gmail.com
+04:35:45	Nafarees Mohamed:	nn_mohamed@std.geo.sab.ac.lk
+04:35:45	Zaheer Anwar:	engr.za.se@gmail.com
+04:36:11	Nasir Farid:	nasirfaridk@gmail.com
+04:36:16	Fahim Raza -Pakistan:	same as previous lecture. have no camra in my laptop
+04:36:17	Degu Tadesse Sendekie:	i am using desktop. no camera ata all, sorry
+04:36:26	Abdennour Zekri:	Thank you
+04:36:30	Bishal Khatri:	bishalkhatri675@gmail.com
+04:36:31	Tan Pei Shi:	Thank you
+04:36:32	Murad Khan:	thank you
+04:36:32	Fahim Raza -Pakistan:	thanks
+04:36:34	Pratiwi Vaherera:	thanks prof
+04:36:35	Abdelhamid Elnaggar:	thank you
+04:36:37	Rabi Shrestha:	thanks
+04:36:39	LIU YICHAO:	byebye
+04:36:39	Riham Khozam:	Thank you
+04:36:39	Bishal Khatri:	thank you and have a great day
+04:36:39	Tamer Saleh 塔莫尔:	bye bye
+04:36:39	Fredrik Angelo Francisco:	Thank you very much!
+04:36:41	Otman Perez:	thanks
+04:36:42	Kamran Ali Chandio (pakistan):	thanks
+04:36:43	Waqar Fatima:	Thankyou
+04:36:43	Thanagrit Wongpanit:	thank you, bye
+04:36:44	manish maharjan:	thank you
+04:36:46	Dhananjana:	bye bye
+04:36:46	zhehan liu（刘哲涵）:	see you
+04:36:46	Mefe Moses:	thank you
+04:36:46	Zaheer Anwar:	bye
+04:36:50	विशाल ज्ञवाली:	thamk you
+04:36:51	Nofaldi:	thank you
+04:36:52	Muhammad Sohaib171015212908:	thank you babye
+04:36:56	Hasnain Abbas:	thankewwww
+04:36:58	Amara Perera:	thank you
+04:36:59	Kanwal Javid:	thank you for very informative session
+04:36:59	Mansoor Ahmad:	mansoorahmad8654@gmail.com
+04:37:02	Maaz:	where can I get online recordings?
+04:37:03	Md Tarequl Islam:	thank you professor
+04:37:06	Siriwat Seechana:	Thank you professor.
+04:37:07	Syed Alimuzzaman Bappa:	thank you so much for the presentation
+04:37:13	Abdelaziz Merghadi:	thank you very much
+04:37:14	Alice Mª Silva:	Thank you so much Professor. An excellent lecture.
+04:37:15	UqBa RamZan:	Thanks
+04:37:43	विशाल ज्ञवाली:	nice to meet with everyone
+04:37:46	Amna Ali:	201203527@uaeu.ac.ae
+04:37:49	202208:	naveed_geo@uop.edu.pk
+04:37:52	Seid Ali Shifaw:	seyageth@gmail.com
+04:37:52	muhammad habib:	Where can we get the link for whatsapp?
+04:37:58	manish maharjan:	manishmgd@gmail.com
+04:37:58	zhehan liu（刘哲涵）:	1132633493@qq.com
+04:37:58	Abdelaziz Merghadi:	abdelaziz.merghadi@gmail.com this is my email
+04:38:05	UqBa RamZan:	Uqbaramzan1996@outlook.com
+04:38:18	Abdelaziz Merghadi:	so please sent it to me if you get it
+04:38:18	SHOUKAT ALI SHAH:	sarkar.sain151@gmail.com
+04:38:19	Galaxy A02:	sharjeelahmedsiddiqui2000@gmail.com
+04:38:26	UqBa RamZan:	Can you please share the qr code of wechat ir whatsapp
+04:38:28	Schneider Djossou:	schneiderdjossou@gmail.com
+04:38:28	Damilola Fadipe:	i need someone to scan my barcode
+04:38:38	彭文志:	1432691521@qq.com
+04:38:44	Muhammad Afaq:	Afaqkhalid@gmail.Com
+04:38:44	Nasir Farid:	https://www.linkedin.com/in/nasir-farid-75799b58
+04:38:49	Abdelaziz Merghadi:	ok thank you. we're waiting for it
+04:38:50	Damilola Fadipe:	damilolafadipe72@gmail.com
+04:38:56	manish maharjan:	please send QR code in manishmgd@gmail.com Thank you
+04:39:03	Nasir Farid:	nasirfaridk@gmail.com
+04:39:04	Nafarees Mohamed:	nn_mohamed@sts.geo.sab.ac.lk
