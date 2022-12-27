@@ -1,0 +1,20 @@
+Philippines Bird Data
+1.coastline - coastline.
+2.place_point - cities and provincial capitals.
+3.prov_poly - provincial boundaries a subset of Natural Earth’s 10m_admin_1_states_provinces_shp data.
+4.pithecophaga_jefferyi.csv - Text file of the distribution of Philippine Eagle (Pithecophaga jefferyi) from the Birdlife International’s
+
+Narural Earth Data
+1.10m_admin_0_boundary_lines_land - Country boundary lines on land.
+2.10m_admin_0_countries - Country subdivisions and the smallest map units as polygons.
+3.10m_admin_1_states_provinces_lines_shp - Internal administrative boundaries as lines.
+4.10m_admin_1_states_provinces_shp - Internal administrative boundaries as polygon.
+5.10m_coastline - Coastline including major islands.
+6.10m_lakes - Natural and artificial lakes.
+7.10m_land - Land polygons including major islands.
+8.10m_minor_islands - Islands that are 2 sq. km or less in size.
+9.10m_minor_islands_coastline - Coastline for minor islands.
+11.10m_ocean - Ocean polygon split into contiguous pieces.
+12.10m_populated_places - City and town points.
+13.10m_river_lake_centerlines_scale_ranks - Single-line drainages including optional lake centerlines.
+14.10m_urban_areas - Area of dense human habitation.
