@@ -1,1 +1,10 @@
+# LAND USE PLANNING #
 
+--> https://landuseplanner.org/
+--> https://euredd.efi.int/
+--> landportal
+--> geolandportal
+--> STDM (Spatial Tenure Domain Model)
+--> GLTN (Global Land Tenure Network)
+--> Collect Earth (Land Monitoring through Interpretation) 
+--> Youtube- International land use planning practice
